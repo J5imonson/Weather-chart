@@ -1,0 +1,35 @@
+header {
+  background-color: rgb(103, 103, 211);
+  color: antiquewhite;
+  font-size: x-large;
+  padding: 5px;
+  margin-bottom:  5px;
+  width: 70%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+}
+
+.daily {
+  background-color: rgb(196, 247, 247);
+  padding: 8px;
+  margin: 5px;
+}
+
+.histBtn {
+  margin: 2px;
+}
+
+.today {
+  background-color: rgb(216, 161, 67);
+  width: 70%;
+  padding: 5px;
+  margin-top: 5px;
+}

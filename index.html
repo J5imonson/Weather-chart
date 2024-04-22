@@ -5,23 +5,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Weather Board</title>
+  <link rel="stylesheet" href="./assets/style.css">
 </head>
 
 <body>
   <header>Weather Dashboard</header>
   <!-- user input -->
   <form id="form">
-    <input type="text" id="city">
     <label>City Name</label>
+    <input type="text" id="city">
     <button type="submit" id="submitBtn">Search</button>
   </form>
+  <aside id="today">
+
+  </aside>
   <main class="weather">
 
   </main>
   <aside class="history">
-
   </aside>
-  <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js"     integrity="sha256-iu/zLUB+QgISXBLCW/mcDi/rnf4m4uEDO0wauy76x7U=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dayjs@1.11.3/dayjs.min.js"
+    integrity="sha256-iu/zLUB+QgISXBLCW/mcDi/rnf4m4uEDO0wauy76x7U=" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="./logic/script.js"></script>
 </body>
