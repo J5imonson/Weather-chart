@@ -1,6 +1,6 @@
-#Weather Dashboard
+# Weather Dashboard
 
-##In this assignment, we were tasked with making a 5-day weather forecast dashboard featuring a saved search history.
+## In this assignment, we were tasked with making a 5-day weather forecast dashboard featuring a saved search history.
 
 https://github.com/J5imonson/Weather-chart
 
