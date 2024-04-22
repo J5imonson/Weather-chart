@@ -1,4 +1,4 @@
-#Task Board
+#Weather Dashboard
 
 ##In this assignment, we were tasked with making a 5-day weather forecast dashboard featuring a saved search history.
 
